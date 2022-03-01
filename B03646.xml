@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hey ho hunt about. Or, A pretty merry meeting of young men and maids, who went to the tavern by Cupids strong aids, they drank and were merry and sang a new song, they talkt and discours'd but did no body wrong, they kindly imbrac'd, and each other did kiss, you know there could be no great harm in this. The tune is, The couragious hartulesse healths.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663-1674?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03646</idno>
+            <idno type="STC">Wing H1660</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[131]</idno>
+            <idno type="EEBO-CITATION">99887172</idno>
+            <idno type="PROQUEST">ocm99887172</idno>
+            <idno type="VID">181880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181880)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[131])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hey ho hunt about. Or, A pretty merry meeting of young men and maids, who went to the tavern by Cupids strong aids, they drank and were merry and sang a new song, they talkt and discours'd but did no body wrong, they kindly imbrac'd, and each other did kiss, you know there could be no great harm in this. The tune is, The couragious hartulesse healths.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F[rancis]. Coles, T[homas]. Vere, and J[ohn]. Wright.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1663-1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Hey ho hunt about ..."</note>
+                  <note>Place and date of publication and publisher's names from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181880:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>Hey ho Hunt about. OR,</head>
+            <argument>
+               <l>A pretty merry meeting of young men and Maids,</l>
+               <l>Who went to the Tavern by Cupids ſtrong aids,</l>
+               <l>They drank and were merry and ſang a new Song,</l>
+               <l>They talkt and diſcours'd but did no body wrong,</l>
+               <l>They kindly imbrac'd, and each other did kiſs,</l>
+               <l>You know there could be no great harm in this.</l>
+            </argument>
+            <opener>The Tune is, the Couragious hartuleſse healths.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>HEy ho hunt about,</l>
+               <l>Find my true Love out,</l>
+               <l>Knock at my Chamber door,</l>
+               <l>I have gold in my pocket,</l>
+               <l>And thou ſhalt not lack it,</l>
+               <l>And when that's ſpent we'l have more</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>I have gold in my pocket,</hi>
+                  </l>
+                  <l>
+                     <hi>And thou ſhalt not lack it,</hi>
+                  </l>
+                  <l>
+                     <hi>And when that is gone we'l have more.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Hey ho do not ſtay</l>
+               <l>But make haſt away,</l>
+               <l>Vnto the Tavern let's hye,</l>
+               <l>Where we will be merry,</l>
+               <l>With Sugar and ſherry:</l>
+               <l>Then who but my ſweet heart and I?</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Where we will be merry, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Hey ho hearts delight,</l>
+               <l>
+                  <hi>Titan</hi> ſhineth bright,</l>
+               <l>And beautifieth the day,</l>
+               <l>
+                  <hi>Cupid</hi> ads luſters,</l>
+               <l>To me and my ſiſters,</l>
+               <l>As freſh as the flowers in <hi>May.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Cupid ads luſters, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Heres <hi>Siſly</hi> and <hi>Nanny,</hi>
+               </l>
+               <l>Heres <hi>Rachel</hi> and <hi>Jany,</hi>
+               </l>
+               <l>Heres <hi>Do<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cas</hi> and ſwéet <hi>Winifright,</hi>
+               </l>
+               <l>Heres <hi>Suſan</hi> and Sara,</l>
+               <l>Heres <hi>Nelly</hi> and <hi>Mary,</hi>
+               </l>
+               <l>which in meriment take much delight</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Heres Suſan and Sara, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Heres ſweet <hi>A<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ice</hi> and <hi>Prudence,</hi>
+               </l>
+               <l>Who wi<gap reason="illegible: missing" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not exclude u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>
+                  <hi>Rebecka</hi> and <hi>Debe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> alſo,</l>
+               <l>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re's bonny fi<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <hi>Peg,</hi>
+               </l>
+               <l>Tha<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s as right a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my leg,</l>
+               <l>Hr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d along <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to go.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Heres bonny fine Peg &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Her<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s dainty young <hi>Dolly,</hi>
+               </l>
+               <l>Both joviall and jol<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</l>
+               <l>Heres <hi>Jone</hi> and fair <hi>Maudlin</hi> ſo brave.</l>
+               <l>Heres pretty witty <hi>Betty,</hi>
+               </l>
+               <l>Newly come to the City,</l>
+               <l>And we ſhall there company have.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Heres pretty witty Betty, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And now all together,</l>
+               <l>Like Birds of a Feather,</l>
+               <l>Let every Maid take her ſwéet heart;</l>
+               <l>To man her along,</l>
+               <l>But not to do wrong,</l>
+               <l>We'l merry méet and merry part.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>To man her along,</hi>
+                  </l>
+                  <l>
+                     <hi>And to do no wrong,</hi>
+                  </l>
+                  <l>
+                     <hi>VVeel merry meet, and merry part.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>FAir maids and young men</l>
+               <l>When they méet now and then,</l>
+               <l>M<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y be merry for an hour or a day,</l>
+               <l>To laugh and make ſport,</l>
+               <l>In a good honeſt ſort,</l>
+               <lg type="refrain">
+                  <l>And in friendſhip to paſs time away.</l>
+                  <l>
+                     <hi>To laugh and make ſport</hi>
+                  </l>
+                  <l>
+                     <hi>In a good honeſt ſort,</hi>
+                  </l>
+                  <l>
+                     <hi>And in friendſhip to paſs time away.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>VV<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> paint not our Faces,</l>
+               <l>Nor powder our Traces,</l>
+               <l>Nor hudle up our heads in black bags</l>
+               <l>The Scarffs that ſome wear,</l>
+               <l>If well look'd on they were,</l>
+               <l>will be found to be no better then rags</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The ſcarffs, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Our habits are civill</l>
+               <l>And we think no evil,</l>
+               <l>Our hearts and our minds do agrée,</l>
+               <l>And now my ſweet heart,</l>
+               <l>Before we depart,</l>
+               <l>In love here's a full cup to thee.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And now my ſweet heart, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Hey ho come away,</l>
+               <l>Drawer brings wine I ſay,</l>
+               <l>VVhile we are here let us not lack,</l>
+               <l>Il<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pay thee for all</l>
+               <l>VVhatſoever we call:</l>
+               <l>Both for white wine for Claret &amp; Sack</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVee'l pay thee for all &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Hey ho let us drink,</l>
+               <l>Fill the cup to the brink,</l>
+               <l>And ſo let this health go round,</l>
+               <l>Like ſiſter and brother,</l>
+               <l>VVe'l pledge one another,</l>
+               <l>Our joyes ſhall with Nector be crownd</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Like ſiſter, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And thus the brave Laſſes,</l>
+               <l>Did tipple up the glaſſes,</l>
+               <l>Their ſwéet hearts being in company then</l>
+               <l>To ſweeten their wine,</l>
+               <l>VVith kiſſes moſt fine,</l>
+               <l>They ſhew'd themſelves kind hearted men</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVith kiſses, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And being kind hearted,</l>
+               <l>Before they departed,</l>
+               <l>E<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lad took his leave of his ſwéeting</l>
+               <l>And promiſed them,</l>
+               <l>To be merry agen,</l>
+               <l>And pointed a time for their méeting.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And then, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Though they ſo merry were,</l>
+               <l>VVith wine and merry chéer</l>
+               <l>No harm was thought ſpoken or ment.</l>
+               <l>The day being done,</l>
+               <l>Each one to his home,</l>
+               <l>Departed with love and content.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The day being done,</hi>
+                  </l>
+                  <l>
+                     <hi>Each one to his home,</hi>
+                  </l>
+                  <l>
+                     <hi>Departed with love and content.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, and J. Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
